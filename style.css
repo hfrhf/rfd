@@ -34,7 +34,8 @@ nav{
 .btn-service{
     width: 200px;
     height: 65px;
-    font-size: 35px;
+    font-size: 28px;
+    overflow: hidden;
 
     
 }
